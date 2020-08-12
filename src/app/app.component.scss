@@ -1,0 +1,28 @@
+video {
+  display: block;
+  width: 640px;
+}
+
+.container {
+  padding: 24px;
+}
+
+app-mini-player {
+/*  position: absolute;
+  right: 24px;
+  bottom: 24px;*/
+}
+
+.mini-player {
+  width: 360px;
+  padding: 24px;
+/*  position: absolute;
+  right: 24px;
+  bottom: 24px;*/
+
+  video {
+    display: block;
+    width: 360px;
+    height: 100%;
+  }
+}

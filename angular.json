@@ -126,6 +126,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "player-to-mini-player"
+    }
+  },
+  "defaultProject": "player-to-mini-player",
+  "cli": {
+    "analytics": "a508f0ef-1d4e-4009-8673-7991a18e2e9d"
+  }
 }
